@@ -1,0 +1,41 @@
+.boxs{
+    display: inline-block;
+    flex-direction: row;
+    justify-content: space-around;
+    gap: 2rem;
+    height: 8rem;
+    width:15rem;
+    /* background-color: red; */
+    margin-left: 2rem;
+    padding-top: 2rem;
+
+}
+.mainBox{
+    /* padding-left: 2rem; */
+    /* background-color: rgb(211, 211, 211); */
+    width: 14rem;
+    height: 6rem;
+    display: flex;
+    flex-direction: row;
+    border: 2px solid rgb(19, 16, 16);
+    border-radius: 5px 15px 15px 2px;
+}
+.properties{
+    display: inline-block;
+    flex-direction: row;
+    justify-content: space-around;
+    gap: 2rem;
+    /* background-color: black; */
+}
+.properties p{
+    margin-left: 2rem;
+    margin-top: 0.9rem;
+    font-size: 1.2rem;
+    font-weight: bold;
+    gap: 1rem;
+}
+.boxs img{
+    width: 5.5rem;
+    height: 6rem;
+    
+}

@@ -1,0 +1,44 @@
+.topbar{
+    height: 34.5rem;
+    width: 55rem;
+
+}
+.topbar01{
+    /* border: 20px solid yellow; *
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-left: 31rem;
+    padding-top: 4rem;
+}
+.topbar02{
+    display: flex;
+    font-direction: row;
+    justify-content: space-around;
+}
+.topbar02 button{
+    width: 10rem;
+    height: 3rem;
+    margin-right: -8rem;
+    background-color: #c29D59;
+    border-style: none;
+    border-radius: 2px;
+    color: white;
+    font-size: large;
+    text-decoration: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    line-height: 3rem;
+
+}
+.topbar02 button .iconi001{
+    width: 24px;
+    height: 24px;
+    /* background-color: white; */
+    border-radius: 50%;
+    /* color: rebeccapur; */
+    line-height: 3rem;
+    margin-top: 0.7rem;
+    
+}

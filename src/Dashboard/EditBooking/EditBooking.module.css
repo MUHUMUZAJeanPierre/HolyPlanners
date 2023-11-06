@@ -1,0 +1,63 @@
+.editCoverone {
+    /* background-color: whitesmoke; */
+    width: 53rem;
+    height: 42rem;
+    /* margin-top:-40rem; */
+    /* margin-left: 22rem; */
+    /* box-shadow: -11px -10px 9px rgb(199, 196, 196); */
+    text-decoration: none;
+
+}
+.editCoverone p{
+    /* padding-top: 2.5rem; */
+    font-size: 2rem;
+    margin-bottom: 2rem;
+}
+.editCoverone input{
+    width: 45rem;
+    height: 3rem;
+    margin-left: rem;
+    border-radius: 4px;
+    border: 2px solid #c29D59;
+    margin-top: 1rem;
+}
+.editCoverone label{
+    margin-left: 3.9rem;
+}
+/* .twobutton button{
+    width: 8rem;
+    height: 3rem;
+    background-color: #c29D59;
+    border-radius: 4px;
+    border-style: none;
+    margin-left: 1rem;
+    margin-top: 2rem;
+    color: white;
+    text-transform: uppercase;
+    margin-bottom: 2rem;
+
+} */
+.cancel{
+    width: 8rem;
+    height: 3rem;
+    background-color: #c29D59;
+    border-radius: 4px;
+    border-style: none;
+    margin-left: 1rem;
+    margin-top: 2rem;
+    color: white;
+    text-transform: uppercase;
+    margin-bottom: 2rem;
+}
+.submit{
+    width: 8rem;
+    height: 3rem;
+    background-color: #c29D59;
+    border-radius: 4px;
+    border-style: none;
+    margin-left: 1rem;
+    margin-top: 2rem;
+    color: white;
+    text-transform: uppercase;
+    margin-bottom: 2rem;
+}

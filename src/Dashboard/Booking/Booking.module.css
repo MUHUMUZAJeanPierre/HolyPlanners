@@ -1,0 +1,16 @@
+.tableRow td{
+    padding: 18px;
+
+
+}
+.tableRowTwo td{
+    
+    font-weight: bold;
+}
+.actions01{
+    display: flex;
+    gap: 1rem;
+}
+.deleteicon{
+    color: red;
+}

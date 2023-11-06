@@ -1,0 +1,166 @@
+.login{
+    border:1px solid rgb(231, 228, 228);
+    width: 100%;
+    height: 30rem;
+    background-color: white;
+    background-size: cover;
+    background-position: center;
+}
+.loginpage{
+    width: 70rem;
+    height: 30rem;
+    margin-top: 5rem;
+    margin-left:5rem;
+    margin-bottom: -10rem;
+    /* padding-
+    
+    top: 1rem; */
+    /* border: 2px solid yellow; */
+    background-color: white;
+}
+.loginpageinside{
+    width: 60rem;
+    height: 40rem;
+    margin-left:5rem;
+    /* border: 2px solid red; */
+    background-color: white;
+    margin-bottom: 12rem;
+
+}
+.inputside{
+    height: 33rem;
+    width: 26rem;
+    /* border: 2px solid green; */
+    border-radius: 4px;
+    margin-top: 2rem;
+    margin-left: 2rem;
+    padding-top: 3.5rem;
+    box-shadow: 10px 20px 8px rgb(234, 234, 240);
+
+}
+.inputside input{
+    display: flex;
+    margin-left: 2rem;
+    width: 19rem;
+    height: 2.7rem;
+    border: 1px solid black;
+    border-radius: 4px;
+    margin-top: 0.3rem;
+    margin-bottom: 1.5rem;
+}
+.inputside input::placeholder{
+    padding-left: 1.5rem;
+    font-weight: bold;
+}
+.inputside h1{
+    display: flex;
+    margin-left: 2rem;
+    font-size: 35px;
+    font-style: none;
+    /* padding-top: 10rem; */
+}
+.inputside p{
+    display: flex;
+    margin-left: 2rem;
+    /* color: rgb(124, 121, 121); */
+
+}
+.inputside .paragra1{
+    color: rgb(102, 95, 95);
+    font-size: 20px;
+
+}
+.inputside .paragra1 a{
+    font-weight: bold;
+    margin-left: 0.5rem;
+}
+.paragra2{
+    font-size: 23px;
+    font-weight: bold;
+    color: black;
+}
+.inputside .paragra2{
+    margin-top: 2rem;
+}
+.inputside .paragra3 a{
+    font-weight: bold;
+    margin-left: 2.3rem;
+}
+.paragra3{
+    margin-top: px;
+    font-weight: bold;
+    font-size: 23px;
+}
+.checkboxside{
+    display: flex;
+    flex-direction: row;
+    margin-left: -0.5rem;
+    /* padding-right: -3rem; */
+}
+.checkboxside p{
+    margin-left: 0.5rem;
+    margin-top: 0.2rem;
+}
+.checkboxside input{
+    height: 1rem;
+    width: 2rem;
+}
+.inputside button{
+    width: 19rem;
+    margin-left: -3rem;
+    height: 3rem;
+    border-radius: 4px;
+    border-style: none;
+    color: white;
+    font-size: 1.5rem;
+    
+    background-color: blueviolet;
+
+}
+.inputside .btn1{
+    text-transform: uppercase;
+}
+.photoside {
+    /* border: 2px solid blue; */
+    height: 29.5rem;
+    width: 29.5rem;
+    display: flex;
+    float: right;
+    margin-top: -29.8rem;
+    border-radius: 4px;
+    /* margin-right: 1rem; */
+}
+.photoside img{
+    height: 29.5rem;
+    width: 29.5rem;
+    margin-top: 0.5rem;
+}
+.optiontwo{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    /* height: 10rem; */
+    /* width: 10rem; */
+    margin-top: 2rem;
+    /* border: 2px solid black; */
+    /* background-color: whitesmoke; */
+
+}
+.optiontwo button{
+    background-color: rgb(255, 248, 248);
+    border: 2px solid black;
+    width: 9rem;
+    font-size: 10px;
+}
+.optiontwo .google{
+    color: tomato;
+    font-size: 20px;
+    gap: 2rem;
+    border: 1px solid rgb(177, 66, 66);
+}
+.optiontwo .facebook{
+    color: blue;
+    font-size: 20px;
+    gap: 2rem;
+    border: 1px solid rgb(65, 52, 243);
+}

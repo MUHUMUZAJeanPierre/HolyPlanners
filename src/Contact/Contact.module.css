@@ -1,0 +1,189 @@
+.contact{
+    background-image: url(../../public/10001.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 50rem;
+}
+.contactone{
+    width: 100%;
+    height: 50rem;
+    background-color: rgba(97, 94, 94, 0.541);
+}
+.contact p{
+    color: white;
+    font-size: 90px;
+    padding-top: 25rem;
+
+}
+.formone{
+    width: 60%;
+    height: 500px;
+    margin-bottom: 2rem;
+    margin-top: 2rem;
+    margin-left: 2rem;
+    /* border: 2px solid red; */
+    box-shadow: 6px 12px 6px rgb(207, 199, 199);
+
+}
+.form1 form{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    margin-top: 20px;
+    padding-top: 20px;
+}
+
+.formone input{
+    width: 15rem;
+    height: 3rem;
+    gap: 2rem;
+    border: 1px solid black;
+   padding-left: 2rem;
+   margin-top: 2rem;
+   margin-left: 2rem;
+   border-radius: 4px;
+   /* margin-top: rem; */
+}
+
+.textareaone textarea {
+    margin-top: 2rem;
+    width: 36.7rem;
+    margin-left: -8.5rem;
+}
+.buttonone button{
+    float: left;
+    height: 4rem;
+    width: 10rem;
+    background-color: #c29D59;
+    color: white;
+    margin-left: 3rem;
+    border-radius: 3px;
+    border-style: none;
+    margin-top: 1rem;
+    font-size: 20px;
+    text-transform: uppercase;
+    font-weight: bold;
+
+}
+
+.whybook{
+    width: 30%;
+    height: 300px;
+    /* border: 2px solid yellow; */
+    float: right;
+    margin-top: -40rem;
+    margin-right: 4rem;
+}
+.whybook1{
+    width: 30%;
+    height: 250px;
+    /* border: 2px solid yellow; */
+    float: right;
+    margin-top: -17rem;
+    margin-right: 4rem;
+    background-color: #c29D59;
+    padding-top: 2rem;
+}
+.officeside{
+    /* border: 2px solid red; */
+    height: 50rem;
+    width: 600px;
+    margin-left: 2rem;
+    display: flex;
+    flex-direction: column;
+}
+.whybook {
+    display: flex;
+    flex-direction: column;
+    /* margin-top: 50px; */
+    background-color: rgb(247, 247, 247);
+    padding-top: 50px;
+    box-shadow: 6px 12px 6px rgb(207, 199, 199);
+}
+.whybook h1{
+    border-left: 3px solid #c29D59;
+    margin-left: 2rem;
+    margin-bottom: 4rem;
+
+}
+.whybook p{
+    margin-left: 5rem;
+    display: flex;
+    color: rgb(179, 165, 165);
+}
+.whybook1 h1{
+    color: white;
+    border-left: 3px solid black;
+    margin-left: 2.3rem;
+    margin-bottom: 2rem;
+    padding-top: -2rem;
+}
+.whybook1 p{
+    color: white;
+    margin-left: 5rem;
+    display: flex;
+    color: white;
+    flex-direction: flex-start;
+}
+.pone{
+    margin-top: 3rem;
+}
+.ponetwo{
+    margin-top: 2rem;
+}
+.map{
+    /* height: 38rem; */
+    /* width: 660px; */
+    /* border: 2px solid yellow; */
+    float: right;
+    margin-top: -40rem;
+}
+.map iframe{
+    width: 660px;
+    height: 39rem;
+}
+
+.indiaoffice label{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: -2rem ;
+    font-size: 20px;
+    
+}
+.indiaoffice input{
+    display: flex;
+    font-size:2rem;
+    justify-content: flex-start;
+    align-items: center;
+    margin-left: 6rem;
+
+    margin-top: 2rem;
+    /* border: 2px solid red; */
+    width: 2rem;
+    height: 2rem;
+    
+}
+.checkbox{
+    padding-top: 20rem;
+    /* width: 20rem; */
+}
+.india1 h2{
+    margin-top: 3rem;
+    margin-left: 6rem;
+    border-left:3px solid  #c29D59;
+    padding-right: 20rem;
+}
+.usaoffice h2{
+    margin-top: 3rem;
+    margin-left: 6rem;
+    border-left:3px solid  #c29D59;
+    padding-right: 20rem;
+}
+.victoria h2{
+    margin-top: 3rem;
+    margin-left: 6rem;
+    border-left:3px solid  #c29D59;
+    padding-right: 10rem;
+}

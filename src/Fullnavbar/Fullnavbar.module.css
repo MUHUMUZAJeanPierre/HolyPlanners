@@ -1,0 +1,107 @@
+
+.container{
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    z-index: 8888;
+    right: 0;
+    width: 99%!important;
+    height: 100%!important;
+    animation-name: modal;
+    animation-duration: 2s;
+}
+
+
+@keyframes modal{
+    0%{
+        left:100% ;
+
+    }
+    100%{
+        left:0;
+
+    }
+}
+
+.icons{
+    height: 10px;
+    float: right;
+    /* display: flex; */
+}
+.icons{
+    font-size: 50px;
+    display: block;
+    border-radius: 50%;
+    /* transition: 0.5s ease; */
+
+}
+.icons .facebook{
+    font-size: 30px;
+    display: block;
+    border-radius: 50%;
+    background-color: #ebc887;
+    margin-top: 150px;
+    /* line-height: 10px; */
+}
+.icons .facebook:hover{
+    background-color: white;
+    transition: 0.5s ease;
+}
+.icons .instagram{
+    font-size: 30px;
+    display: block;
+    background-color: #ebc887;
+    border-radius: 50%;
+    margin-top:9px;
+}
+.icons .instagram:hover{
+    background-color: white;
+    transition: 0.5s ease;
+}
+.icons .twitter{
+    font-size: 30px;
+    display: block;
+    background-color: #ebc887;
+    border-radius: 50%;
+    margin-top:9px;
+}
+.icons .twitter:hover{
+    background-color: white;
+    transition: 0.5s ease;
+}
+.close{
+    color: white;
+}
+.container{
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin-top: 40px;
+    width: 500px;
+    height: 60px;
+    background-color: rgb(78, 74, 69);
+    height: 25%;
+}
+.container ul li{
+    
+    display: flex;
+    margin-left: 150px;
+
+    /* line-height: 80px; */
+
+
+}
+.container ul li a{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+}
+.container ul li a:hover{
+    color: #ebc887;
+    transition: 0.5s ease;
+    text-decoration: line-through;
+}
+.container .img{
+    display: flex;
+    padding-top: 100px;
+    margin-left: 150px;
+}

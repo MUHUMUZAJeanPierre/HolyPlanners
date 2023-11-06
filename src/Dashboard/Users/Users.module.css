@@ -1,0 +1,30 @@
+.tableRow td{
+    padding: 23px;
+
+
+}
+.tableRowTwo td{
+    
+    /* padding: 3px; */
+    font-weight: bold;
+}
+.editDeletebtn{
+    display: flex;
+    /* justify-content: space-evenly; */
+    gap: 2rem;
+    margin-left: -9rem;
+    /* background-color: red; */
+
+}
+.pencilEdit{
+    /* width: 10px; */
+    /* height: ; */
+    border-style:none ;
+    background-color: white;
+    border-style: none;
+    text-decoration: none;
+    border-radius: 50%;
+}
+.trash{
+    color: red;
+}

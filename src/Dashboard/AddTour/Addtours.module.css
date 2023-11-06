@@ -1,0 +1,45 @@
+.formContainer form {
+    /* width: 50rem; */
+    /* height: 35rem; */
+    background-color:#ffffff;
+    border-radius: 5px;
+    box-shadow: -8px -9px 12px whitesmoke;
+    /* margin-left: 30%; */
+    /* margin-top: -48%; */
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+  
+  }
+.formContainer form p {
+    /* font-size: 3rem; */
+    /* margin-top: 1rem; */
+  }
+ label{
+    display: flex;
+    margin-left: 2rem;
+    /* font-size: 1.5rem; */
+  }
+  .formContainer form input{
+    width: 45rem;
+    height: 4rem;
+    margin-left: 2rem;
+    border-radius: 4px;
+    border: 2px solid #c29D59;
+    margin-top: 1rem;
+  }
+
+ .formContainer form button{
+    width: 15rem;
+    height: 3rem;
+    background-color: #c29D59;
+    border-radius: 4px;
+    border-style: none;
+    margin-left: 18rem;
+    margin-top: 2rem;
+    /* font-size: 2rem; */
+    color: white;
+    text-transform: uppercase;
+    margin-bottom: 2rem;
+  }
+  

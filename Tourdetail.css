@@ -1,0 +1,255 @@
+
+
+.tourdetail{
+    width: 100%;
+    height: 145rem;
+    background-color:rgb(245, 244, 244);
+    /* background-color: red; */
+}
+
+.tourdeatailone{
+    /* background-image: url(../../public/houses.jpg); */
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 50rem;
+}
+
+.tourdetailtwo{
+    width: 100%;
+    height: 50rem;
+    background-color: rgba(97, 94, 94, 0.541);
+}
+.tourdetailtwo p{
+    color: white;
+    font-size: 8rem;
+    padding-top: 20rem;
+}
+.tourdetailthree{
+    /* border: 3px solid blue; */
+    width: 60rem;
+    height: 5rem;
+    margin-left: -3.2rem;
+}
+.tourdetailthree button{
+    width: 10rem;
+    height: 3.5rem;
+    border-radius: 1px solid rgb(240, 232, 232);
+    margin-top: 20px;
+    border-radius: 3px;
+    /* border-style: none; */
+}
+.tourdetailthree button:hover{
+    background-color:#c59946;
+    transition: 0.5s;
+}
+.tourdetailthree button a{
+    text-decoration: none;
+    gap: 2px;
+    padding-left: 4px;
+    color: rgb(15, 13, 13);
+    
+}
+.tourdetailthree .ri{
+    /* background-color: #c29D59; */
+    border-radius: 50%;
+    color:#c29D59;
+}
+.tourdetailthree .bs{
+    color:#c29D59;
+}
+.tourdetailthree .im{
+    color:#c29D59;
+
+}
+.mapw{
+    width: 47rem;
+    height: 65rem;
+    /* border: 2px solid black; */
+    margin-left: 2rem;
+    text-align: left;
+    padding-top: 3rem;
+    margin-top: 2rem;
+    padding-left: 2rem;
+    box-shadow: 6px 7px 9px rgb(100, 98, 98);
+}
+.mapw2 iframe{
+    width: 45rem;
+    height: 30rem;
+    margin-top: 30px;
+}
+.mapw h1{
+    padding-top: 4rem;
+    font-size: 3rem;
+}
+.mapw p{
+    padding-top: 2rem;
+    color: rgb(28, 30, 31);
+    /* font-size: 10px; */
+}
+
+
+
+.findnowpage{
+    /* border: 2px solid greenyellow; */
+    width: 400px;
+    height:790px ;
+    margin-top: 20px;
+    float: right;
+    margin-right: 2rem;
+    margin-top: -79.5rem;
+    box-shadow: -9px -9px 9px rgb(102, 97, 97);
+    background-color: rgb(247, 247, 247);
+    padding-top: 30px;
+    
+}
+.findnowpage h1{
+    border-left: 2px solid #c59946;
+    margin-top: 0.5rem;
+    margin-left: 30px;
+    margin-right: 50px;
+}
+.findnowpage input{
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    height: 40px;
+    padding-top: 10px;
+    margin-top: 10px;
+    margin-left: 33px;
+    border-radius: 5px;
+    border: 1px solid #c59946;
+    /* border-style: none; */
+}
+.findnow1{
+    display: flex;
+    width: 20px;
+    height: 10px;
+
+}
+.findnowpage  .findnow1 p{
+    margin-top: 2rem;
+    margin-left: -2.9rem;
+    /* color: 20px; */
+    font-weight: bold;
+}
+.findnow1 input{
+    width: 140px ;
+    /* margin-top: 3rem; */
+}
+.findnow3{
+    margin-top: 8rem;
+    margin-bottom: 1rem;
+
+}
+
+.findnow3 p{
+    margin-top: -2rem;
+    font-size: 1.5rem;
+    margin-right: 10rem;
+}
+.findnow3 input{
+    margin-bottom: -1rem;
+    width: 30px;
+    /* background-color: red; */
+    
+}
+.findnowpage button{
+    width: 20.5rem;
+    height: 3rem;
+    margin-right: 20px;
+    border-radius: 4px;
+    /* border: 2px solid rgb(201, 193, 193); */
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 20px;
+    background-color: #c59946;
+    border-style: none;
+    color: white;
+}
+
+
+.whyBookSection{
+    width: 30%;
+    height: 300px;
+    /* border: 2px solid yellow; */
+    float: right;
+    margin-top: 15rem;
+    margin-left: -4rem;
+}
+.whyBook{
+    width: 30%;
+    height: 250px;
+    /* border: 2px solid yellow; */
+    float: right;
+    margin-top: 30rem;
+    margin-right: 4rem;
+    background-color: #c29D59;
+    padding-top: 2rem;
+}
+
+.whybookSection {
+    display: flex;
+    flex-direction: column;
+    margin-top: 15rem;
+    margin-left: -30rem;
+    background-color: rgb(119, 61, 61);
+    padding-top: 50px;
+    box-shadow: 6px 12px 6px rgb(207, 199, 199);
+}
+.whyBookSection h1{
+    border-left: 3px solid #c29D59;
+    margin-left: 2rem;
+    margin-bottom: 4rem;
+
+}
+.whyBookSection p{
+    margin-left: 5rem;
+    display: flex;
+    color: rgb(179, 165, 165);
+}
+.whyBook h1{
+    color: white;
+    border-left: 3px solid black;
+    margin-left: 2.3rem;
+    margin-bottom: 2rem;
+    padding-top: -2rem;
+}
+.whyBook p{
+    color: white;
+    margin-left: 5rem;
+    display: flex;
+    color: white;
+    flex-direction: flex-start;
+}
+
+textarea{
+    border: 1px solid #c59946;
+}
+.findNowTwo, textarea{
+    width: 18.7rem;
+    height: 10rem;
+    margin-left: 1rem;
+    margin-top: 1rem;
+}
+.findNowOne button{
+    margin-top: 6rem;
+}
+.availability input{
+    margin-left: 1rem;
+    width: 2rem;
+    height: 2rem;
+}
+.availability label{
+    /* color: red; */
+    margin-left: 4rem;
+    margin-top: -2rem;
+    font-size: 1.4rem;
+}
+.availability{
+    /* display: flex; */
+    /* flex-direction: row; */
+    /* justify-content: start; */
+    /* align-items: start; */
+    /* margin-right: 10rem; */
+}
